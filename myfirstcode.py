@@ -1,5 +1,5 @@
 print ("hello world")
-a=float(input("Enter first number") )
+a=float(input("Enter first number ") )
 b=float(input("Enter second number "))
 sum=a+b
 diff=a-b
